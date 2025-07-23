@@ -1,10 +1,21 @@
-<pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">
-_________        ___.   ________      _______________.__   __  .__         .____          ___.   __________
-\_   ___ \___  __\_ |__ \_____  \_____\_   _____/_   |  |_/  |_|  |__      |    |   _____ \_ |__ \____    /
-/    \  \/\  \/  /| __ \  _(__  <_  __ \    __)  |   |  |\   __\  |  \     |    |   \__  \ | __ \  /     / 
-\     \____>    < | \_\ \/       \  | \/     \   |   |  |_|  | |   Y  \    |    |___ / __ \| \_\ \/     /_ 
- \______  /__/\_ \|___  /______  /__|  \___  /   |___|____/__| |___|  /____|_______ (____  /___  /_______ \
-        \/      \/    \/       \/          \/                       \/_____/       \/    \/    \/        \/
+
+
+
+   <pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">                          ..                                                            ..      s                
+                       . uW8"        .x~~"*Weu.                   oec :        oe    x .d88"      :8      .uef^"    
+             uL   ..   `t888        d8Nu.  9888c     .u    .     @88888      .@88     5888R      .88    :d88E       
+      .    .@88b  @88R  8888   .    88888  98888   .d88B :@8c    8"*88%  ==*88888     '888R     :888ooo `888E       
+ .udR88N  '"Y888k/"*P   9888.z88N   "***"  9888%  ="8888f8888r   8b.        88888      888R   -*8888888  888E .z8k  
+<888'888k    Y888L      9888  888E       ..@8*"     4888>'88"   u888888>    88888      888R     8888     888E~?888L 
+9888 'Y"      8888      9888  888E    ````"8Weu     4888> '      8888R      88888      888R     8888     888E  888E 
+9888          `888N     9888  888E   ..    ?8888L   4888>        8888P      88888      888R     8888     888E  888E 
+9888       .u./"888&    9888  888E :@88N   '8888N  .d888L .+     *888>      88888      888R    .8888Lu=  888E  888E 
+?8888u../ d888" Y888*" .8888  888" *8888~  '8888F  ^"8888*"      4888       88888     .888B .  ^%888*    888E  888E 
+ "8888P'  ` "Y   Y"     `%888*%"   '*8"`   9888%      "Y"        '888       88888     ^*888%     'Y"    m888N= 888> 
+   "P'                     "`        `~===*%"`                    88R    '**%%%%%%**    "%               `Y"   888  
+                                                                  88>                                         J88"   
+                                                                  48                                          @%    
+                                                                  '8                                        :"      
 </pre>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
