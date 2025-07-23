@@ -1,54 +1,55 @@
-<pre align="center">
- ▄████████ ▀████    ▐████▀ ▀█████████▄     ▄████████    ▄████████  ▄█           ███        ▄█    █▄       ▄████████    ▄████████  ▄████████ 
-███    ███   ███▌   ████▀    ███    ███   ███    ███   ███    ███ ███       ▀█████████▄   ███    ███     ███    ███   ███    ███ ███    ███ 
-███    █▀     ███  ▐███      ███    ███   ███    ███   ███    █▀  ███          ▀███▀▀██   ███    ███     ███    █▀    ███    █▀  ███    █▀  
-███           ▀███▄███▀     ▄███▄▄▄██▀   ▄███▄▄▄▄██▀  ▄███▄▄▄     ███           ███   ▀  ▄███▄▄▄▄███▄▄   ███         ▄███▄▄▄     ███        
-███           ████▀██▄     ▀▀███▀▀▀██▄  ▀▀███▀▀▀▀▀   ▀▀███▀▀▀     ███           ███     ▀▀███▀▀▀▀███▀  ▀███████████ ▀▀███▀▀▀     ███        
-███    █▄    ▐███  ▀███      ███    ██▄ ▀███████████   ███        ███           ███       ███    ███            ███   ███    █▄  ███    █▄  
-███    ███  ▄███     ███▄    ███    ███   ███    ███   ███        ███▌    ▄     ███       ███    ███      ▄█    ███   ███    ███ ███    ███ 
-████████▀  ████       ███▄ ▄█████████▀    ███    ███   ███        █████▄▄██    ▄████▀     ███    █▀     ▄████████▀    ██████████ ████████▀  
-                                          ███    ███              ▀                                                                         
+
+<pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">
+_________        ___.   ________      _______________.__   __  .__           _________              
+\_   ___ \___  __\_ |__ \_____  \_____\_   _____/_   |  |_/  |_|  |__       /   _____/ ____   ____  
+/    \  \/\  \/  /| __ \  _(__  <_  __ \    __)  |   |  |\   __\  |  \      \_____  \_/ __ \_/ ___\ 
+\     \____>    < | \_\ \/       \  | \/     \   |   |  |_|  | |   Y  \     /        \  ___/\  \___ 
+ \______  /__/\_ \|___  /______  /__|  \___  /   |___|____/__| |___|  /____/_______  /\___  >\___  >
+        \/      \/    \/       \/          \/                       \/_____/       \/     \/     \/ 
 </pre>
+<!-- ===================== HACKER BANNER ===================== -->
+<p align="center" style="background-color:#101013;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="110" alt="hacker-logo-gif" style="background:#101013;border-radius:50%;box-shadow:0 0 10px #FF003C,0 0 30px #18181c;" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120" alt="hacker logo gif" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-<!-- === CONTACT ME === -->
+
+<!-- ===================== CONTACT ME ===================== -->
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FF003C" alt="Email"/>
   </a>
   <a href="https://t.me/yourtelegramusername">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-23232b?style=for-the-badge&logo=telegram&logoColor=FF003C" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/cyb3rfilthsec/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-23232b?style=for-the-badge&logo=linkedin&logoColor=FF003C" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Cyb3rFilthSec">
-    <img src="https://img.shields.io/twitter/follow/Cyb3rFilthSec?color=1da1f2&logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-23232b?logo=twitter&style=for-the-badge&logoColor=FF003C" alt="Twitter" />
   </a>
 </p>
 
----
-<!-- === CYBERSEC ICON BANNER === -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="44" style="vertical-align:middle;margin:0 8px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/creativity-svgrepo-com.svg" alt="Creativity" width="44" style="vertical-align:middle;margin:0 8px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/computer-svgrepo-com.svg" alt="Computer" width="44" style="vertical-align:middle;margin:0 8px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/business-svgrepo-com.svg" alt="Business" width="44" style="vertical-align:middle;margin:0 8px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/trophy-svgrepo-com.svg" alt="Trophy" width="44" style="vertical-align:middle;margin:0 8px;" />
+  <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=FF003C" alt="Profile views" />
+</p>
+
+<!-- ===================== CYBERSEC ICON BANNER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="44" style="vertical-align:middle;margin:0 8px;"/>
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/creativity-svgrepo-com.svg" alt="Creativity" width="44" style="vertical-align:middle;margin:0 8px;"/>
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/computer-svgrepo-com.svg" alt="Computer" width="44" style="vertical-align:middle;margin:0 8px;"/>
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/business-svgrepo-com.svg" alt="Business" width="44" style="vertical-align:middle;margin:0 8px;"/>
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/trophy-svgrepo-com.svg" alt="Trophy" width="44" style="vertical-align:middle;margin:0 8px;"/>
 </p>
 
 ---
 
 ## 🕵️‍♂️ About Me
 
-> "The quieter you become, the more you are able to hear."  
+> <span style="color:#FF003C;">"The quieter you become, the more you are able to hear."</span>  
 > _— Kali Linux (and hackers everywhere)_
 
 Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentless explorer at the intersection of offensive and defensive security.
@@ -64,19 +65,20 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 ## ⚡ Hacker Arsenal & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-4A4A4A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Exploit%20Development-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/JavaScript-18181c?style=for-the-badge&logo=javascript&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Linux-18181c?style=for-the-badge&logo=linux&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Arch-18181c?style=for-the-badge&logo=arch-linux&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/PowerShell-18181c?style=for-the-badge&logo=powershell&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Nmap-18181c?style=for-the-badge&logo=nmap&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Wireshark-18181c?style=for-the-badge&logo=wireshark&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Metasploit-18181c?style=for-the-badge&logo=metasploit&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Networking-18181c?style=for-the-badge&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Exploit%20Development-FF003C?style=for-the-badge&logoColor=18181c"/>
+</p>
 
-  ---
+---
 
 ## 🏆 Stats & Achievements
 
@@ -101,12 +103,6 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 ---
 
 ## 💬 Random Cybersecurity Quote
-
-<!--
-If the below quote widget isn't working, try these alternatives:
-1. Use https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-2. Or manually add a favorite quote as markdown
--->
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Cybersecurity Quote" />
