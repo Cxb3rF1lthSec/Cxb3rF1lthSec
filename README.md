@@ -1,22 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Cybersecurity+Labs+%7C+Personal+Projects+%7C+Scripts+%26+Tools;Innovate.+Automate.+Secure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="waving hand" />
 </p>
 
+<!-- === CONTRIBUTION SNAKE (AUTO-UPDATED) === -->
 <p align="center">
-  <!-- GitHub Contribution Snake SVG (dark) -->
-  <img src="https://github.com/Cxb3rF1lthSec/Cxb3rF1lthSec/blob/output/dist/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
+  </picture>
+  <!--
+    - If the snake is not displaying, check your Actions tab for errors.
+    - Make sure the output/dist/github-snake-dark.svg file exists in your output branch.
+  -->
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
+<!-- === CONTACT ME === -->
 <p align="center">
-  <a href="mailto:bl4ckc3ll.sec@proton.me">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/yourtelegramusername">
@@ -32,24 +41,33 @@
 
 ---
 
+<!-- === CYBERSEC ICON BANNER === -->
 <p align="center">
-  <!-- Example SVG Icon Integration: Network (from nsvg #image1) -->
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network Icon" width="64" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="44" style="vertical-align:middle;margin:0 8px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/creativity-svgrepo-com.svg" alt="Creativity" width="44" style="vertical-align:middle;margin:0 8px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/computer-svgrepo-com.svg" alt="Computer" width="44" style="vertical-align:middle;margin:0 8px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/business-svgrepo-com.svg" alt="Business" width="44" style="vertical-align:middle;margin:0 8px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/trophy-svgrepo-com.svg" alt="Trophy" width="44" style="vertical-align:middle;margin:0 8px;" />
 </p>
-
-## 🕵️‍♂️ About Me
-
-Hi! I’m **Cxb3rF1lth**, a passionate cybersecurity explorer and developer.  
-This is my personal space for:
-
-- 🧪 **Labs & Writeups**: Showcasing hands-on labs and real-world scenarios.
-- 🛠️ **Personal Scripts & Tools**: Custom scripts & security tools for automation, reconnaissance, and defense.
-- 🕳️ **Bug Bounties**: Vulnerability research, exploits, and red team adventures.
-- 💾 **Apps & Projects**: Security-focused applications & open source contributions.
 
 ---
 
-## 🚀 Tech Stack
+## 🕵️‍♂️ About Me
+
+> "The quieter you become, the more you are able to hear."  
+> _— Kali Linux (and hackers everywhere)_
+
+Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentless explorer at the intersection of offensive and defensive security.
+
+**What I do:**
+- 🐍 Write Python/Bash tools for red team ops, blue team defense, and everything in between.
+- 🕳️ Hunt for vulnerabilities, automate recon, and build custom exploits.
+- 🧑‍💻 Share labs, CTFs, writeups, and open-source projects.
+- 🛡️ Build and break things in equal measure.
+
+---
+
+## ⚡ Hacker Arsenal & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -58,9 +76,14 @@ This is my personal space for:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-4A4A4A?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Exploit%20Development-red?style=for-the-badge"/>
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network SVG Icon" width="32" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="32" style="vertical-align:middle;margin:0 4px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/creativity-svgrepo-com.svg" alt="Creativity" width="32" style="vertical-align:middle;margin:0 4px;" />
+  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/computer-svgrepo-com.svg" alt="Computer" width="32" style="vertical-align:middle;margin:0 4px;" />
 </p>
 
 ---
@@ -72,9 +95,9 @@ This is my personal space for:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cxb3rF1lthSec&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxb3rF1lthSec&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxb3rF1lthSec&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cxb3rF1lthSec&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxb3rF1lthSec&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxb3rF1lthSec&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -89,17 +112,61 @@ This is my personal space for:
 
 ## 💬 Random Cybersecurity Quote
 
+<!--
+If the below quote widget isn't working, try these alternatives:
+1. Use https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+2. Or manually add a favorite quote as markdown
+-->
+
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=Fira%20Code" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Cybersecurity Quote" />
 </p>
 
 ---
 
 ## 🧑‍💻 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/cyb3rfilthsec/)
-- [Twitter](https://twitter.com/Cyb3rFilthSec)
-- [Personal Blog](https://cyberfilthsec.com) _(coming soon)_
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyb3rfilthsec/" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/cell-phone-svgrepo-com.svg" alt="Phone" width="24" style="vertical-align:middle;margin:0 6px;"/>
+    LinkedIn
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://twitter.com/Cyb3rFilthSec" title="Twitter">
+    <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/conversation-svgrepo-com.svg" alt="Chat" width="24" style="vertical-align:middle;margin:0 6px;"/>
+    Twitter
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://cyberfilthsec.com" title="Blog">
+    <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/address-svgrepo-com.svg" alt="Site" width="24" style="vertical-align:middle;margin:0 6px;"/>
+    Personal Blog (coming soon)
+  </a>
+</p>
+
+---
+
+<details>
+<summary>⚙️ <b>Troubleshooting & Automation</b></summary>
+
+- <b>SVGs not displaying?</b>  
+  - Make sure you’ve uploaded the SVG files to your <code>main</code> branch and the <code>&lt;img src=...&gt;</code> paths are correct.
+  - Example:  
+    <code>&lt;img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" width="32"/&gt;</code>
+
+- <b>Contribution snake doesn't show?</b>  
+  - The GitHub Action workflow will automatically generate and update the snake SVG.
+  - Confirm the workflow ran successfully (in the Actions tab) and that <code>output/dist/github-snake-dark.svg</code> exists in the <code>output</code> branch.
+  - The README will always reference the latest SVG in <code>output/dist</code>.
+
+- <b>Widgets and Stats?</b>  
+  - All stats, trophies, and activity graphs update automatically via their respective APIs/services.
+  - No manual refresh needed!
+
+- <b>Quote widget not loading?</b>  
+  - Try a different quote provider (see the commented alternatives above).
+  - Or add a favorite quote directly as markdown for a personal touch.
+
+</details>
 
 ---
 
@@ -109,6 +176,6 @@ Badges: https://shields.io/
 Stats: https://github.com/anuraghazra/github-readme-stats
 Trophy: https://github.com/ryo-ma/github-profile-trophy
 Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-Random Quote: https://github.com/PiyushSuthar/github-readme-quotes
-SVG Icons: https://www.svgrepo.com/ (add more SVGs as desired)
+Random Quote: https://quotes-github-readme.vercel.app/
+SVG Icons: https://www.svgrepo.com/
 -->
