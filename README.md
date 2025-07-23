@@ -16,7 +16,7 @@
 </pre>
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rfilth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
 </p>
 <!-- ===================== HACKER BANNER ===================== -->
 <p align="center" style="background-color:#101013;">
@@ -65,19 +65,12 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
 </p>
 
 ---
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cxb3rF1lthSec&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxb3rF1lthSec&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxb3rF1lthSec&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
----
-
-## Activity
-
+<!-- GENERIC ACTIVITY GRAPH OR SNAKE GAME PLACEHOLDER START -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cxb3rF1lthSec&theme=radical" alt="activitygraph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Generic GitHub Contribution Snake" style="background:#18181c; border-radius:10px; box-shadow:0 0 8px #FF003C,0 0 18px #18181c;" />
 </p>
+<!-- GENERIC ACTIVITY GRAPH OR SNAKE GAME PLACEHOLDER END -->
 
 ---
 
@@ -119,9 +112,7 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
     <code>&lt;img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" width="32"/&gt;</code>
 
 - <b>Contribution snake doesn't show?</b>  
-  - The GitHub Action workflow will automatically generate and update the snake SVG.
-  - Confirm the workflow ran successfully (in the Actions tab) and that <code>output/dist/github-snake-dark.svg</code> exists in the <code>output</code> branch.
-  - The README will always reference the latest SVG in <code>output/dist</code>.
+  - If the generic one above doesn't show, try refreshing the page, or check for browser extensions blocking SVGs.
 
 - <b>Widgets and Stats?</b>  
   - All stats, trophies, and activity graphs update automatically via their respective APIs/services.
