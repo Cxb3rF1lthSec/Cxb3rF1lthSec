@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
@@ -17,6 +18,7 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
   </picture>
 </p>
+
 <!-- === CONTACT ME === -->
 <p align="center">
   <a href="mailto:your.email@example.com">
