@@ -1,16 +1,21 @@
+<pre align="center">
+
+_________        ___.   ________      _______________.__   __  .__           _________              
+\_   ___ \___  __\_ |__ \_____  \_____\_   _____/_   |  |_/  |_|  |__       /   _____/ ____   ____  
+/    \  \/\  \/  /| __ \  _(__  <_  __ \    __)  |   |  |\   __\  |  \      \_____  \_/ __ \_/ ___\ 
+\     \____>    < | \_\ \/       \  | \/     \   |   |  |_|  | |   Y  \     /        \  ___/\  \___ 
+ \______  /__/\_ \|___  /______  /__|  \___  /   |___|____/__| |___|  /____/_______  /\___  >\___  >
+        \/      \/    \/       \/          \/                       \/_____/       \/     \/     \/ 
+</pre>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
 </p>
 <p align="center">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="waving hand" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120" alt="hacker logo gif" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
-
 <!-- === CONTACT ME === -->
 <p align="center">
   <a href="mailto:your.email@example.com">
@@ -28,7 +33,6 @@
 </p>
 
 ---
-
 <!-- === CYBERSEC ICON BANNER === -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="44" style="vertical-align:middle;margin:0 8px;" />
@@ -69,12 +73,8 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
   <img src="https://img.shields.io/badge/Metasploit-4A4A4A?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Exploit%20Development-red?style=for-the-badge"/>
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="32" style="vertical-align:middle;margin:0 4px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/creativity-svgrepo-com.svg" alt="Creativity" width="32" style="vertical-align:middle;margin:0 4px;" />
-  <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/computer-svgrepo-com.svg" alt="Computer" width="32" style="vertical-align:middle;margin:0 4px;" />
-</p>
 
----
+  ---
 
 ## 🏆 Stats & Achievements
 
