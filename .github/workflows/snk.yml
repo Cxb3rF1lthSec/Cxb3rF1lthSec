@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight
+    - cron: "0 0 * * *" # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,14 +11,15 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.cxb3rf1lthsec}}
+          github_user_name: Cxb3rF1lthSec
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
           message: "Generate contribution snake"
           add: 'dist/*'
           branch: output
