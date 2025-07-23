@@ -44,22 +44,18 @@ _________        ___.   ________      _______________.__   __  .__         .____
 
 ---
 
-## 🕵️‍♂️ About Me
-
-> <span style="color:#FF003C;">"The quieter you become, the more you are able to hear."</span>  
-> _— Kali Linux (and hackers everywhere)_
-
-Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentless explorer at the intersection of offensive and defensive security.
+## About Me
+Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penetration tester , and relentless explorer at the intersection of offensive and defensive security and security programming.
 
 **What I do:**
-- 🐍 Write Python/Bash tools for red team ops, blue team defense, and everything in between.
-- 🕳️ Hunt for vulnerabilities, automate recon, and build custom exploits.
-- 🧑‍💻 Share labs, CTFs, writeups, and open-source projects.
-- 🛡️ Build and break things in equal measure.
+-  Write Python/Bash tools for red team ops, blue team defense, and everything in between.
+-  Hunt for vulnerabilities, automate recon, and build custom exploits.
+-  Share labs, CTFs, writeups, and open-source projects.
+-  Build and break things in equal measure.
 
 ---
 
-## ⚡ Hacker Arsenal & Tech Stack
+## Hacker Arsenal & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
@@ -77,7 +73,7 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 
 ---
 
-## 🏆 Stats & Achievements
+## Stats & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cxb3rF1lthSec&theme=radical&no-frame=true&row=1&margin-w=30" />
@@ -91,7 +87,7 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 
 ---
 
-## 📈 Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cxb3rF1lthSec&theme=radical" alt="activitygraph" />
@@ -99,7 +95,7 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 
 ---
 
-## 💬 Random Cybersecurity Quote
+## Random Cybersecurity Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Cybersecurity Quote" />
@@ -107,7 +103,7 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 
 ---
 
-## 🧑‍💻 Let’s Connect
+## Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cyb3rfilthsec/" title="LinkedIn">
@@ -129,7 +125,7 @@ Hi! I’m **Cxb3rF1lth**, an automation addict, security enthusiast, and relentl
 ---
 
 <details>
-<summary>⚙️ <b>Troubleshooting & Automation</b></summary>
+<summary> <b>Troubleshooting & Automation</b></summary>
 
 - <b>SVGs not displaying?</b>  
   - Make sure you’ve uploaded the SVG files to your <code>main</code> branch and the <code>&lt;img src=...&gt;</code> paths are correct.
