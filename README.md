@@ -28,11 +28,6 @@ _________        ___.   ________      _______________.__   __  .__         .____
     <img src="https://img.shields.io/badge/Twitter-23232b?logo=twitter&style=for-the-badge&logoColor=FF003C" alt="Twitter" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=FF003C" alt="Profile views" />
-</p>
-
 <!-- ===================== CYBERSEC ICON BANNER ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/network-svgrepo-com.svg" alt="Network" width="44" style="vertical-align:middle;margin:0 8px;"/>
@@ -42,8 +37,6 @@ _________        ___.   ________      _______________.__   __  .__         .____
   <img src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/main/trophy-svgrepo-com.svg" alt="Trophy" width="44" style="vertical-align:middle;margin:0 8px;"/>
 </p>
 
----
-
 ## About Me
 Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penetration tester , and relentless explorer at the intersection of offensive and defensive security and security programming.
 
@@ -52,11 +45,7 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
 -  Hunt for vulnerabilities, automate recon, and build custom exploits.
 -  Share labs, CTFs, writeups, and open-source projects.
 -  Build and break things in equal measure.
-
----
-
-## Hacker Arsenal & Tech Stack
-
+-    ---
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
