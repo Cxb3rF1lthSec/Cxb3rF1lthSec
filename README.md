@@ -1,4 +1,7 @@
-
+<!-- ===================== HACKER BANNER ===================== -->
+<p align="center" style="background-color:#101013;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="110" alt="hacker-logo-gif" style="background:#101013;border-radius:50%;box-shadow:0 0 10px #FF003C,0 0 30px #18181c;" />
+</p>
 <pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">
 _________        ___.   ________      _______________.__   __  .__           _________              
 \_   ___ \___  __\_ |__ \_____  \_____\_   _____/_   |  |_/  |_|  |__       /   _____/ ____   ____  
@@ -7,11 +10,6 @@ _________        ___.   ________      _______________.__   __  .__           ___
  \______  /__/\_ \|___  /______  /__|  \___  /   |___|____/__| |___|  /____/_______  /\___  >\___  >
         \/      \/    \/       \/          \/                       \/_____/       \/     \/     \/ 
 </pre>
-<!-- ===================== HACKER BANNER ===================== -->
-<p align="center" style="background-color:#101013;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="110" alt="hacker-logo-gif" style="background:#101013;border-radius:50%;box-shadow:0 0 10px #FF003C,0 0 30px #18181c;" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
 </p>
