@@ -47,7 +47,8 @@
 </p>
 
    ## About Me
-Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penetration tester , and relentless explorer at the intersection of offensive and defensive security and security programming.I will be showcasing ,sharing, storing and organizing all my personal projects, labs, toos and also create and provide educational content and resources as much as possible.
+Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penetration tester , and relentless explorer at the intersection of offensive and defensive security and security programming.I will be showcasing ,sharing, storing and organizing all my personal projects, labs, toos and also create and provide educational content and resources.
+
     <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
