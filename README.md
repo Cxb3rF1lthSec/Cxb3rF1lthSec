@@ -1,7 +1,4 @@
-
-
-
-   <pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">                          ..                                                            ..      s                
+  <pre align="center" style="color:#FF003C; background:#18181c; font-weight:bold; font-size:1.1em; border-radius:8px; padding:8px 0; letter-spacing:1.5px;">                          ..                                                            ..      s                
                        . uW8"        .x~~"*Weu.                   oec :        oe    x .d88"      :8      .uef^"    
              uL   ..   `t888        d8Nu.  9888c     .u    .     @88888      .@88     5888R      .88    :d88E       
       .    .@88b  @88R  8888   .    88888  98888   .d88B :@8c    8"*88%  ==*88888     '888R     :888ooo `888E       
@@ -15,8 +12,9 @@
    "P'                     "`        `~===*%"`                    88R    '**%%%%%%**    "%               `Y"   888  
                                                                   88>                                         J88"   
                                                                   48                                          @%    
-                                                                  '8                                        :"      
+                                                                 '8                                        :"      
 </pre>
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+Cxb3rf1lth+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rf1lth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
 </p>
@@ -50,13 +48,8 @@
 
 ## About Me
 Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penetration tester , and relentless explorer at the intersection of offensive and defensive security and security programming.
-
-**What I do:**
--  Write Python/Bash tools for red team ops, blue team defense, and everything in between.
--  Hunt for vulnerabilities, automate recon, and build custom exploits.
--  Share labs, CTFs, writeups, and open-source projects.
--  Build and break things in equal measure.
--    ---
+    
+   ---
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
@@ -72,14 +65,7 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
 </p>
 
 ---
-
-## Stats & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cxb3rF1lthSec&theme=radical&no-frame=true&row=1&margin-w=30" />
-</p>
-
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cxb3rF1lthSec&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxb3rF1lthSec&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxb3rF1lthSec&layout=compact&theme=radical" alt="Top Languages"/>
