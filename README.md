@@ -6,19 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="waving hand" />
 </p>
 
-<!-- === CONTRIBUTION SNAKE (AUTO-UPDATED) === -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Cxb3rF1lthSec/Cxb3rF1lthSec/output/dist/github-snake-dark.svg" />
-  </picture>
-  <!--
-    - If the snake is not displaying, check your Actions tab for errors.
-    - Make sure the output/dist/github-snake-dark.svg file exists in your output branch.
-  -->
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cxb3rF1lthSec&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
