@@ -72,14 +72,6 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
 
 ---
 
-## Random Cybersecurity Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Cybersecurity Quote" />
-</p>
-
----
-
 ## Let’s Connect
 
 <p align="center">
@@ -116,11 +108,7 @@ Hi! I’m Z,..or **Cxb3rF1lth**, an aspiring cyber security specialist and penet
   - All stats, trophies, and activity graphs update automatically via their respective APIs/services.
   - No manual refresh needed!
 
-- <b>Quote widget not loading?</b>  
-  - Try a different quote provider (see the commented alternatives above).
-  - Or add a favorite quote directly as markdown for a personal touch.
 
-</details>
 
 ---
 
